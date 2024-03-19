@@ -1,1 +1,1 @@
-# dianadidorenko-mern-eats-food-ordering
+# mern-eats-food-ordering
